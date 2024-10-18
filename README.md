@@ -21,7 +21,8 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+git clone https://github.com/Sirabi08/Ecommerce-React.git
+
 ```
 
 Go to the project directory
@@ -57,8 +58,7 @@ Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
 
-## Feedback
+### Contact
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/siraj086).
 
