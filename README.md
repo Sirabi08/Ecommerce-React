@@ -38,10 +38,6 @@ git clone https://github.com/Sirabi08/Ecommerce-React.git
 
 Go to the project directory
 
-```bash
-  cd React_E-Commerce
-```
-
 Install dependencies
 
 ```bash
