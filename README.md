@@ -1,7 +1,24 @@
 # E-Commerce Website
 
 A Ecommerce Website made with React.js Framework.
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Sirabi08/Portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/Sirabi08/Portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Sirabi08/Portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/intent/follow?screen_name=YourTwitterHandle)
+  
 
+  <br />
+  <br />
+
+  <h2 align="center">ReactJS Portfolio Website</h2>
+
+  This is a fully responsive Ecommerce website, <br />Built using **ReactJS** and styled with **bootstrap**.
+
+  <a href="https://Sirabi08.github.io/Ecommerce-React/"><strong>➥ Live Demo</strong></a>
+
+</div>
 
 
 ## Features
